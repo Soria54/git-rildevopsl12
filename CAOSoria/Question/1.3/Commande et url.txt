@@ -1,0 +1,7 @@
+git init monprojet
+git add README.md
+git commit -m "Initial commit"
+git remote add monprojet https://github.com/Soria54/monprojet.git
+git push -u monprojet master
+
+https://github.com/Soria54/monprojet.git
